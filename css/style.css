@@ -1,0 +1,103 @@
+body
+{
+    margin:0;
+    padding: 0;
+   margin-top: 4px;
+}
+div{
+    text-align: center;
+}
+
+.wrapper
+{
+    width: 75%;
+    /* background-color: red; */
+    height: 1500px;
+    margin: 0 auto;
+    max-width: 1000px;
+    min-width: 400px;
+}
+.header
+{
+    width: 100%;
+    height: 140px;
+    background-color: grey;
+}
+.menu
+{
+    width: 100%;
+    height: 60px;
+    margin-top: 20px; ;
+    background-color: grey;
+}
+
+.left
+{
+    width: 64%;
+    /* background-color:rebeccapurple; */
+    height:1200px;
+    float: left;
+    margin-top: 10px;
+}
+.blogs
+{
+    width:100%;
+    background-color: gray;
+    height: 385px;  
+    margin-bottom: 20px;
+}
+.right
+{
+    width: 30%;
+    float: right;
+    margin-top: 10px;
+    /* background-color: aqua; */
+    height: 1200px;
+    margin-bottom: 40px;
+}
+.news
+{
+    width: 100%;
+    height: 200px;
+    background-color: grey;
+    margin-bottom: 10px;
+}
+.content
+{
+    width:100%;
+    height: 350px;
+    background-color:grey;
+    margin-top: 10px;
+}
+.small-box1
+{
+    width: 45%;
+    float: left; 
+    height:200px;
+    background-color: grey; 
+    margin-top: 20px;
+} 
+.small-box2
+{
+    width: 49%;
+    float: right; 
+    height:200px;
+    background-color: grey; 
+    margin-top: 20px;
+    margin-bottom:40px;
+} 
+.meadia-links
+{
+    background-color: grey;
+    width: 100%;
+    height: 160px; 
+    clear: both;
+}
+
+.footer
+{
+    width: 100%;
+    height: 100px;
+    clear: both;
+    background-color: grey;
+}
